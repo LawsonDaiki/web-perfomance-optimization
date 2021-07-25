@@ -1,7 +1,7 @@
 # Web Perfomance Optimization
 created by: Lawson Daiki Hamasaki
 
-This repository was created to keep track of my search content about web performance optimization tools and tips.
+This repository was created to keep track of my content search about web performance optimization tools and tips.
 
 * Optimize the load perfomance of your pages
 * Undestand perfomances bottlenecks and how to fix them
