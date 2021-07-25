@@ -1,4 +1,4 @@
-# web-perfomance-optimization
+# Web Perfomance Optimization
 created by: Lawson Daiki Hamasaki
 
 This repository was created to keep track of my search content about web performance optimization tools and tips.
